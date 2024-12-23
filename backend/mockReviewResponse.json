@@ -1,0 +1,50 @@
+{
+    "reviews": [
+      {
+        "reviewId": "123456789",
+        "reviewer": {
+          "displayName": "John Doe",
+          "profilePhotoUrl": "https://example.com/photo.jpg",
+          "isAnonymous": false
+        },
+        "comment": "Great service and friendly staff! Highly recommend.",
+        "starRating": "FIVE",
+        "createTime": "2024-12-21T10:00:00Z",
+        "updateTime": "2024-12-21T12:00:00Z",
+        "reviewReply": {
+          "comment": "Thank you, John! We’re glad you had a great experience.",
+          "updateTime": "2024-12-21T14:00:00Z"
+        }
+      },
+      {
+        "reviewId": "987654321",
+        "reviewer": {
+          "displayName": "Jane Smith",
+          "profilePhotoUrl": "https://example.com/photo2.jpg",
+          "isAnonymous": false
+        },
+        "comment": "The bread was stale and overpriced. Disappointed.",
+        "starRating": "TWO",
+        "createTime": "2024-12-20T08:30:00Z",
+        "updateTime": "2024-12-20T09:00:00Z",
+        "reviewReply": {
+          "comment": "We’re sorry for your experience, Jane. Please contact us to resolve this issue.",
+          "updateTime": "2024-12-20T10:00:00Z"
+        }
+      },
+      {
+        "reviewId": "567890123",
+        "reviewer": {
+          "displayName": "Anonymous",
+          "profilePhotoUrl": null,
+          "isAnonymous": true
+        },
+        "comment": "Amazing ambiance and delicious pastries.",
+        "starRating": "FOUR",
+        "createTime": "2024-12-18T15:20:00Z",
+        "updateTime": "2024-12-18T15:20:00Z",
+        "reviewReply": null
+      }
+    ]
+  }
+  
