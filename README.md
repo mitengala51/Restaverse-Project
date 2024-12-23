@@ -95,10 +95,6 @@ The **Review Website** is designed for business owners to easily access and mana
   - Customer **names**
   - **Dates** of reviews
   - **Review comments** or feedback
-  
-- **Interactive Dashboard:** The dashboard is designed to be user-friendly and provides easy-to-read insights into customer feedback, making it easy for business owners to track their business's reputation.
-
-- **Review Interaction:** Business owners can reply to reviews directly from the website. Responses can be managed efficiently to enhance customer relationships.
 
 ### How It Works:
 
